@@ -1,5 +1,5 @@
-# mikemassimino.com
+# Legacy mikemassimino.com
 
-Website for Mike
+Mike's website from 2019 to 2025. 
 
-For more information check out https://mikemassimino.com/about-this-site
+For more information check out https://mikemassimino.github.io/legacy_mikemassimino.com/about-this-site

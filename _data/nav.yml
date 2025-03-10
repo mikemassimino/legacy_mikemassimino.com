@@ -1,19 +1,19 @@
 - name : Home
-  link : /
+  link : ./
 - name : About
-  link : /about
+  link : ./about
 - name : Contact
   link : https://mikemassimino.paperform.co/
 - name : Media
-  link : /media
+  link : ./media
 - name : Speaker
-  link : /speaker
+  link : ./speaker
 - name : Moonshot
-  link : /moonshot
+  link : ./moonshot
 - name : Spaceman
-  link : /spaceman
+  link : ./spaceman
 - name : Podcast
-  link : /2funnyastronauts
+  link : ./2funnyastronauts
 - name : In Space
-  link : /in-space
+  link : ./in-space
 
